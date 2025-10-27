@@ -7,15 +7,15 @@ Baik, berikut adalah draf lengkap untuk file **`README.md`** proyek REST API Lay
 
 ## Deskripsi Umum
 
-Proyek ini adalah implementasi REST API sederhana menggunakan **Node.js** dan **Express.js** untuk mengelola data transaksi reparasi handphone. [cite\_start]API ini dibangun sebagai tugas responsi untuk modul Pembuatan API dengan JavaScript[cite: 1]. [cite\_start]Data transaksi disimpan secara persisten di **Supabase**, dan keseluruhan aplikasi di-deploy sebagai *serverless function* di **Vercel**[cite: 58].
+Proyek ini adalah implementasi REST API sederhana menggunakan **Node.js** dan **Express.js** untuk mengelola data transaksi reparasi handphone. API ini dibangun sebagai tugas responsi untuk modul Pembuatan API dengan JavaScript. Data transaksi disimpan secara persisten di **Supabase**, dan keseluruhan aplikasi di-deploy sebagai *serverless function* di **Vercel**.
 
 Tujuan utama proyek ini adalah menyediakan sistem digital yang mempermudah proses pencatatan, pemantauan status, dan penghapusan riwayat reparasi.
 
 ## Tujuan dan Fitur Utama
 
-1.  [cite\_start]Mengimplementasikan konsep **CRUD** (Create, Read, Update, Delete) dalam arsitektur RESTful API[cite: 7].
-2.  [cite\_start]Meningkatkan pemahaman penggunaan Express.js sebagai *framework* backend[cite: 9].
-3.  [cite\_start]Mengelola data menggunakan database **Supabase (PostgreSQL)**[cite: 11, 80].
+1.  Mengimplementasikan konsep **CRUD** (Create, Read, Update, Delete) dalam arsitektur RESTful API.
+2.  Meningkatkan pemahaman penggunaan Express.js sebagai *framework* backend.
+3.  Mengelola data menggunakan database **Supabase (PostgreSQL)**.
 4.  Mendukung fitur *filter* data berdasarkan status pekerjaan.
 
 | Metode | Endpoint | Deskripsi |
